@@ -22,6 +22,5 @@ export default defineConfig({
     ],
 
     socialLinks: [{ icon: "github", link: "https://github.com/Jiang-yiler" }],
-  },
-  base: '/blogs/'
+  }
 });
